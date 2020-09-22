@@ -1,3 +1,6 @@
+//https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/index.html#0
+
+
 package com.example.android.akf02
 
 import androidx.appcompat.app.AppCompatActivity
