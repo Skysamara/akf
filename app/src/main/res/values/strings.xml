@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AKF02</string>
+    <string name="app_name">AKF02 AboutMe</string>
+    <string name="name">Alex Bolt</string>
 </resources>
